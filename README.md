@@ -7,5 +7,5 @@ you don't do anything on this front page.
 
 
 Made by:
-TheCreepy31 
-GamerzXsakuzboy99
+
+TheCreepy31, GamerzXsakuzboy99
