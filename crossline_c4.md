@@ -8,6 +8,7 @@ Track layout
 - !sopen e1 | Departure from the depot.
 - !sopen depot | Open route from track 4.
 - !sopen a2 | when entering to depot area.
+
 ### Oktyabrskaya
 - !sopen ok3-1 | Entering to mainline from depot (track 3).
 - !sopen ok3-2 | Entering to mainline to wrong way from depot (track 3).
@@ -17,11 +18,14 @@ Track layout
 - !sopen ok2-4 | Entertig to depot siding track 4 from mainline.
 - !sopen ok1-3 | Entertig to depot siding track 3 from mainline.
 - !sopen ok1-4 | Entertig to depot siding track 4 from mainline.
+
 ### Rechnaya
 - !sopen rx3-2 turnover after the station.
+
 ### Proletarskaya
 - !sopen pr1-2 | entering to dead end.
 - !sclose pr1-2 | exting from dead end .
+
 ### Mezhdunarodnaya 
 - !sopen md2-4 | Entering to dead end track 4.
 - !sopen md2-3 | Entering to dead end track 3.
