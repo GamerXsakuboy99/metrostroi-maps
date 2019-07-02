@@ -7,10 +7,6 @@ Track layout
 ### from / to depot
 - !sopen e1 | Departure from the depot.
 - !sopen depot | Open route from track 4.
-- !sopen ok14   \
-- !sopen ok16    |  When entering to depot.
-- !sopen ok18    |
-- !sopen ok20   /
 - !sopen a2 | when entering to depot area.
 ### Oktyabrskaya
 - !sopen ok3-1 | Entering to mainline from depot (track 3).
