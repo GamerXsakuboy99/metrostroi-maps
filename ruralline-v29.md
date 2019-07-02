@@ -1,5 +1,9 @@
 # gm_metro_ruralline_v29
 
+![Track layout](https://github.com/GamerXsakuboy99/metrostroi-maps/blob/master/pictures/gm_metro_ruralline_v29.png?raw=true)
+Track layout
+
+
 ## Depot and Rocklake 
 ![depot and rocklake](https://github.com/GamerXsakuboy99/metrostroi-maps/blob/master/pictures/depot-rocklake.png?raw=true)
 
