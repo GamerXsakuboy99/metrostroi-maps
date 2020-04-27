@@ -1,6 +1,6 @@
 # gm_metro_crossline_C4
 
-![Track layout](https://github.com/GamerXsakuboy99/metrostroi-maps/blob/master/pictures/gm_metro_crossline_c4%20.png?raw=true)
+![Track layout](https://github.com/GamerXsakuboy99/metrostroi-maps/blob/master/pictures/gm_metro_crossline_c4.png?raw=true)
 Track layout
 
 ## Switch commands
