@@ -4,7 +4,7 @@
 Track layout
 
 
-## Depot and Rocklake 
+## Depot and Rocklake
 ![depot and rocklake](https://github.com/GamerXsakuboy99/metrostroi-maps/blob/master/pictures/depot-rocklake.png?raw=true)
 
 ### main track
@@ -12,7 +12,7 @@ Track layout
 - **!sopen rl2-2** Area starts from signal 46 and ends after Rl2 switch point.
 
 ### Depot tracks
-- **!sopen exitdepot** Area starts from depot signal E1 and ends to siganl RL1.
+- **!sopen exitdepot** Area starts from depot signal E1 and ends to signal RL1.
 - **!soepn rld-1** Opens route from signal RL1 to station, route ends to buffer.
 - **!sopen rl2-d** Opens route from signal 46 to depot and ends to signal E2 in depot.
 - **!sopen rl2-2** Opens route from station to RL2 switch point.  

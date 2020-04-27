@@ -1,10 +1,9 @@
 # metrostroi-maps
 all track schemes and commands can be found from here.
 
-All maps are in Wiki section. 
+> This repository has been archived 27/04/2020 and made public for refence.  All typos and GitHub page was closed down.
 
-you don't do anything on this front page.
-
+> In future these maps might be moved to official metrostroi wiki.
 
 Made by:
 
